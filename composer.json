@@ -3,7 +3,7 @@
     "description": "Automatically turn Eloquent models into GraphQL",
     "type": "library",
     "require": {
-        "illuminate/support": "^9.1",
+        "illuminate/support": ">=9.1",
         "doctrine/dbal": "^3.3"
     },
     "license": "MIT",
